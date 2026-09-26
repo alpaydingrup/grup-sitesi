@@ -1,0 +1,51 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Güven ve kalite temalı iş ortaklığı illüstrasyonu">
+  <rect width="400" height="300" rx="12" fill="#e8edf7"/>
+
+  <!-- ground -->
+  <rect x="0" y="248" width="400" height="52" fill="#dbe4f5"/>
+
+  <!-- building -->
+  <g>
+    <rect x="60" y="90" width="130" height="158" rx="6" fill="#1a3a6b"/>
+    <rect x="76" y="112" width="22" height="26" rx="3" fill="#e8edf7"/>
+    <rect x="110" y="112" width="22" height="26" rx="3" fill="#e8edf7"/>
+    <rect x="144" y="112" width="22" height="26" rx="3" fill="#e8edf7"/>
+    <rect x="76" y="150" width="22" height="26" rx="3" fill="#e8edf7"/>
+    <rect x="110" y="150" width="22" height="26" rx="3" fill="#e8edf7"/>
+    <rect x="144" y="150" width="22" height="26" rx="3" fill="#e8edf7"/>
+    <rect x="76" y="188" width="22" height="26" rx="3" fill="#2f5aa8"/>
+    <rect x="110" y="188" width="22" height="26" rx="3" fill="#2f5aa8"/>
+    <rect x="144" y="188" width="22" height="26" rx="3" fill="#2f5aa8"/>
+    <rect x="108" y="222" width="34" height="26" rx="2" fill="#0f2647"/>
+  </g>
+
+  <!-- second, taller building -->
+  <g>
+    <rect x="210" y="60" width="110" height="188" rx="6" fill="#2f5aa8"/>
+    <rect x="226" y="80" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="256" y="80" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="286" y="80" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="226" y="116" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="256" y="116" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="286" y="116" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="226" y="152" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="256" y="152" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="286" y="152" width="20" height="24" rx="3" fill="#e8edf7"/>
+    <rect x="226" y="188" width="20" height="24" rx="3" fill="#1a3a6b"/>
+    <rect x="256" y="188" width="20" height="24" rx="3" fill="#1a3a6b"/>
+    <rect x="286" y="188" width="20" height="24" rx="3" fill="#1a3a6b"/>
+    <rect x="252" y="222" width="36" height="26" rx="2" fill="#0f2647"/>
+  </g>
+
+  <!-- trust shield badge -->
+  <g transform="translate(255,44)">
+    <circle cx="0" cy="0" r="34" fill="#ffffff"/>
+    <circle cx="0" cy="0" r="34" fill="none" stroke="#1a3a6b" stroke-width="2"/>
+    <path d="M0 -16l14 5v9c0 9-6 15-14 19-8-4-14-10-14-19v-9l14-5z" fill="#1a3a6b"/>
+    <path d="M-6 -1l4 4 8-9" stroke="#ffffff" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- upward growth line -->
+  <polyline points="40,238 95,206 150,222 205,176 260,190 320,140" fill="none" stroke="#1a3a6b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+  <circle cx="320" cy="140" r="6" fill="#1a3a6b"/>
+</svg>
